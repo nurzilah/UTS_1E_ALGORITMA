@@ -13,7 +13,7 @@ public class Jawaban_no_3 {
         System.out.println("1. Bus Regullar Staff Untuk N");
         System.out.println("1. Bus Staff Untuk P");
         System.out.println();
-        System.out.println("Masukan No NIK Kariawan");
+        System.out.println("Masukan No NIK Karyawan");
         Scanner satu = new Scanner(System.in);
         i = satu.nextInt();
 
